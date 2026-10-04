@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Animated Typing Header (Fixed URL Encoding for GitHub Camo Proxy) -->
   <a href="https://github.com/Prasannaram2k4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Prasannaram+R+R+👋;Aspiring+AI+Engineer+%26+Full-Stack+Developer+💻;Building+AI-Driven+Systems+%26+RAG+Architectures+🤖;Seeking+AI+%26+Software+Engineering+Roles+🚀" alt="Typing SVG Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+I'm+Prasannaram+R+R;Aspiring+AI+Engineer+%26+Full-Stack+Developer;Building+AI-Driven+Systems+%26+Scalable+Web+Apps;Seeking+AI+%26+Full-Stack+Engineering+Roles" alt="Typing SVG Header" />
   </a>
 
   <br />
 
   <!-- Profile Views Counter & Badges -->
   <img src="https://komarev.com/ghpvc/?username=Prasannaram2k4&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%26%20Backend-FF4081?style=for-the-badge&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-FF4081?style=for-the-badge&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00E676?style=for-the-badge&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Location-India-76FF03?style=for-the-badge&logoColor=black" alt="Location" />
 
@@ -19,21 +19,15 @@
 
 ---
 
-### 💫 About Me
+### 👋 About Me
 
-```yaml
-developer:
-  name: Prasannaram R R
-  title: Aspiring AI Engineer & Full-Stack Developer
-  specialization: AI-Driven Systems, RAG Architectures & Scalable Web Applications
-  status: Actively seeking AI Engineering, Backend & Full-Stack Developer Roles
-  interests: Generative AI, Vector Search, Automated Agents, Quantitative Trading Data Analytics
-  currently_building: Intelligent Multi-Agent Workflows & Next-Gen RAG Assistants
-```
+> **Aspiring AI Engineer & Full-Stack Developer** with a strong foundation in building AI-driven systems, RAG architectures, and scalable web backends.
 
-- 🔭 **Focus:** Building AI-first applications, integrating LLMs with vector search, and developing scalable web backends.
-- ⚡ **Passion:** Turning cutting-edge AI capabilities into practical, real-world products.
-- 💬 **Ask me about:** Python, FastAPI, LangChain, FAISS, RAG, React, and REST API design.
+- 🎯 **Primary Focus:** AI Engineering & Full-Stack Development (Python, FastAPI, React, RAG, LLMs)
+- 💼 **Status:** Actively seeking **AI Engineering**, **Backend**, and **Full-Stack Developer** roles
+- 🔬 **Tech Interests:** Generative AI, Retrieval-Augmented Generation (RAG), Vector Databases (FAISS), Automated Agents, and Quantitative Trading Data Science
+- 🚀 **Currently Building:** Intelligent multi-agent workflows and next-generation document QA assistants
+- 💬 **Ask me about:** Python, FastAPI, LangChain, FAISS, RAG, React, and REST API design
 
 ---
 
