@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Animated Typing Header (Fixed URL Encoding for GitHub Camo Proxy) -->
+  <!-- Animated Typing Header (Width & Font Size Fixed to Prevent Text Truncation) -->
   <a href="https://github.com/Prasannaram2k4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+I'm+Prasannaram+R+R;Aspiring+AI+Engineer+%26+Full-Stack+Developer;Building+AI-Driven+Systems+%26+Scalable+Web+Apps;Seeking+AI+%26+Full-Stack+Engineering+Roles" alt="Typing SVG Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Prasannaram+R+R;Aspiring+AI+Engineer+%26+Full-Stack+Developer;Building+AI-Driven+Systems+%26+Web+Apps;Seeking+AI+%26+Software+Engineering+Roles" alt="Typing SVG Header" />
   </a>
 
   <br />
