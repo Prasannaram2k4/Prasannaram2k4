@@ -1,26 +1,30 @@
 <div align="center">
 
-# Prasannaram R R
+<h1>Prasannaram R R</h1>
 
-**Aspiring AI Engineer & Full-Stack Developer**
+<a href="https://github.com/Prasannaram2k4">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Aspiring+AI+Engineer+%26+Full-Stack+Developer;Building+AI-Driven+Systems+%26+Web+Apps;Exploring+RAG%2C+LLMs+%26+Intelligent+Workflows;Seeking+AI%2C+Backend+%26+Full-Stack+Roles" alt="Animated text: aspiring AI engineer and full-stack developer, building AI-driven systems and web apps" />
+</a>
 
-Building AI-driven systems, RAG applications, and web backends.
-Currently exploring multi-agent workflows and document QA assistants.
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Prasannaram2k4-181717?style=flat&logo=github)](https://github.com/Prasannaram2k4)
-[![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=flat)](https://github.com/Prasannaram2k4)
-[![Location](https://img.shields.io/badge/Location-India-5271a3?style=flat)](https://github.com/Prasannaram2k4)
+<img src="https://komarev.com/ghpvc/?username=Prasannaram2k4&color=0E75B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views counter" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-FF4081?style=for-the-badge" alt="Focus: AI and full-stack development" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00A86B?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/Location-India-5271A3?style=for-the-badge" alt="Location: India" />
 
 </div>
 
-## About
+---
+
+## 👋 About
 
 - **Focus:** AI engineering and full-stack development
 - **Seeking:** AI engineering, backend, and full-stack developer roles
 - **Interests:** Generative AI, RAG, vector databases, automated agents, and quantitative trading data science
 - **Ask me about:** Python, FastAPI, LangChain, FAISS, RAG, React, and REST API design
 
-## Toolkit
+## 🛠️ Toolkit
 
 | Area | Technologies |
 | --- | --- |
@@ -31,7 +35,7 @@ Currently exploring multi-agent workflows and document QA assistants.
 | **Databases** | PostgreSQL, MongoDB, SQLite |
 | **Tools** | Git, GitHub, Postman, VS Code |
 
-## Featured projects
+## ✨ Featured projects
 
 ### [Software Quality Risk Prediction](https://github.com/Prasannaram2k4/software-quality-risk-prediction)
 
@@ -69,6 +73,27 @@ A Discord bot that tracks forex trading sessions and notifies users about sessio
 
 `Python` · `Discord.py` · `Asyncio`
 
-## Connect
+## 🏆 GitHub trophies
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Prasannaram2k4&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub profile trophies" />
+</div>
+
+## 📊 GitHub activity
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prasannaram2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasannaram2k4&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages on GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasannaram2k4&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## 🤝 Connect
 
 [GitHub](https://github.com/Prasannaram2k4) · [Portfolio repository](https://github.com/Prasannaram2k4/portfolio)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer" width="100%" alt="Decorative wave footer" />
+</div>
