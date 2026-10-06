@@ -37,17 +37,13 @@
 
 ## ✨ Featured projects
 
-### [Software Quality Risk Prediction](https://github.com/Prasannaram2k4/software-quality-risk-prediction)
-
-A Flask-based prototype for assessing software-module risk from code metrics, with predictions presented as **Low**, **Medium**, or **High Risk**. The repository upload is missing model, dataset, and template files required to run the app as-is.
-
-[▶ Watch the demo](https://drive.google.com/file/d/1nedXx2J-WM00mkR7zcalhTJZmjlCj0G4/view?usp=sharing)
-
 ### [ragnify — AI Document Assistant](https://github.com/Prasannaram2k4/ragnify)
 
 PDF question-answering with document chunking, Hugging Face embeddings, FAISS similarity search, and a Streamlit interface.
 
 `Python` · `LangChain` · `Hugging Face` · `FAISS` · `Streamlit`
+
+[🌐 Live demo](https://ragnify-gamma.vercel.app/)
 
 ### [Insightify — ATS Resume ↔ Job Matcher](https://github.com/Prasannaram2k4/Insightify)
 
@@ -55,11 +51,15 @@ Compares resumes with job descriptions using TF-IDF match scores, highlights mis
 
 `FastAPI` · `React` · `Python` · `JavaScript` · `Scikit-learn`
 
+[🌐 Live demo](https://insightify-nu.vercel.app/)
+
 ### [AI-Lead-Discovery-Agent](https://github.com/Prasannaram2k4/AI-Lead-Discovery-Agent)
 
 An agent for finding, scraping, and verifying potential business leads, with structured data exports.
 
 `Python` · `BeautifulSoup` · `Asyncio`
+
+No public production demo is listed for this project.
 
 ### [hyperliquid-sentiment-analysis](https://github.com/Prasannaram2k4/hyperliquid-sentiment-analysis)
 
@@ -67,11 +67,21 @@ Explores relationships between Hyperliquid trader performance and the Bitcoin Fe
 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Hyperliquid API`
 
+**Analysis previews:** [Win rate](https://github.com/Prasannaram2k4/hyperliquid-sentiment-analysis/blob/main/winrate_direction_sentiment.png) · [PnL](https://github.com/Prasannaram2k4/hyperliquid-sentiment-analysis/blob/main/pnl_by_sentiment.png) · [Volume](https://github.com/Prasannaram2k4/hyperliquid-sentiment-analysis/blob/main/volume_by_sentiment.png)
+
 ### [marketpulse-bot](https://github.com/Prasannaram2k4/marketpulse-bot)
 
 A Discord bot that tracks forex trading sessions and notifies users about session overlaps and high-volatility windows.
 
 `Python` · `Discord.py` · `Asyncio`
+
+No public production demo or bot invite is listed for this project.
+
+### [Software Quality Risk Prediction](https://github.com/Prasannaram2k4/software-quality-risk-prediction)
+
+A Flask-based prototype for assessing software-module risk from code metrics, with predictions presented as **Low**, **Medium**, or **High Risk**. The repository upload is missing model, dataset, and template files required to run the app as-is.
+
+[▶ Watch the demo](https://drive.google.com/file/d/1nedXx2J-WM00mkR7zcalhTJZmjlCj0G4/view?usp=sharing)
 
 ## 🏆 GitHub trophies
 
